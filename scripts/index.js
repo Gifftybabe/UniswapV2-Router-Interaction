@@ -124,7 +124,7 @@ const removeLiquidity = async (
 };
 
 
-  const { ROUTER } = await constants();
+
 
 
 const swapExactTokensForTokens = async (
